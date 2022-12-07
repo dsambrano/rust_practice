@@ -4,7 +4,7 @@ Given the NSA's new [report][nsa-report] recommending programmers switch from me
 I have been thinking about people up a complied lanuage for a long time, and it looks like Rust is the future so here I go!
 
 This repo will have my projects as I go through my rust journey.
-I am starting off with [this tutorial][rust-mit] if you want to follow along, and after the first lesson, I am already super excited!
+I am starting off with [this tutorial][rust-mit] if you want to follow along, and after the first lesson, I am already super excited (note, since I started reading, I discovered there was a new edition of the online book, which can be found [here][rust-mit-second])!
 To get some extra practice, after I get the hang of the basics, I will probably start doing the [Advent of Code][aoc] challenges for some extra practice.
 
 
@@ -24,5 +24,6 @@ Amazing!
 [nsa-report]: https://media.defense.gov/2022/Nov/10/2003112742/-1/-1/0/CSI_SOFTWARE_MEMORY_SAFETY.PDF  "NSA Recommends Rust of C/C++"
 [rust-linux]: https://www.memorysafety.org/blog/rust-in-linux-just-the-beginning/ "Rust is added to the Linux Kernel"
 [rust-mit]: https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/getting-started.html "MIT Rust Tutorial"
+[rust-mit-second]:  https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/ch01-00-introduction.html "MIT Rust Tutorial: Second Edition"
 [aoc]: https://adventofcode.com/ "Advent of Code: Coding Challenges"
 

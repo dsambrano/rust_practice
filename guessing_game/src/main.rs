@@ -1,3 +1,5 @@
+// Following Chapter 2 tutorial: https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/guessing-game.html
+// second edition: https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/ch02-00-guessing-game-tutorial.html
 extern crate rand;
 
 use std::io;
